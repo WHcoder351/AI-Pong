@@ -1,0 +1,16 @@
+.TopBar{
+    width: 100%;
+    text-align: left;
+}
+.TopBar button{
+    float: right;
+    border: 5px solid white;
+}
+.TopBar  h1{
+    display:inline;
+}
+
+
+#SG, #status{
+    font-size: 10px;
+}
